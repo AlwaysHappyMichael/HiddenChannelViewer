@@ -21,7 +21,7 @@ module.exports = (() => {
 		version: "1.0.0",
 	  },
   
-	  main: "ShowHiddenChannels.plugin.js",
+	  main: "HiddenChannelViewer.plugin.js",
 	};
   
   
