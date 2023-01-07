@@ -11,7 +11,6 @@
 
 module.exports = (() => {
 
-
 	const config = {
 	  info: {
 		name: "HiddenChannelViewer",
@@ -19,8 +18,10 @@ module.exports = (() => {
 		  name: "Michael",
 		}],
 		version: "1.0.0",
+		description: "A plugin which displays hidden Channels.",
+		github: "https://github.com/AlwaysHappyMichael/HiddenChannelViewer",
+		github_raw: "https://raw.githubusercontent.com/AlwaysHappyMichael/HiddenChannelViewer/main/HiddenChannelViewer.plugin.js"
 	  },
-  
 	  main: "HiddenChannelViewer.plugin.js",
 	};
   
@@ -1401,4 +1402,3 @@ module.exports = (() => {
   
 	})(window.ZeresPluginLibrary.buildPlugin(config));
 })();
-  
