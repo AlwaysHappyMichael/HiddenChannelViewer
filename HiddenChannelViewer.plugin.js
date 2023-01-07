@@ -4,6 +4,8 @@
  * @version 1.0.0
  * @author Michael
  * @authorId 988831285491421235
+ * @source https://github.com/AlwaysHappyMichael/HiddenChannelViewer
+ * @updateURL https://raw.githubusercontent.com/AlwaysHappyMichael/HiddenChannelViewer/main/HiddenChannelViewer.plugin.js
 */
 
 
