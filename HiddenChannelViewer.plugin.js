@@ -1,6 +1,6 @@
 /**
- * @name ShowHiddenChannels
- * @displayName Show Hidden Channels
+ * @name HiddenChannelViewer
+ * @displayName Hidden Channel Viewer
  * @version 1.0.0
  * @author Michael
  * @authorId 988831285491421235
@@ -14,11 +14,10 @@ module.exports = (() => {
 
 	const config = {
 	  info: {
-		name: "ShowHiddenChannels",
+		name: "HiddenChannelViewer",
 		authors: [{
 		  name: "Michael",
 		}],
-		description: "A plugin which displays all hidden Channels, which cannot be accessed due to Role Restrictions, this will not not allow you to read them (impossible).",
 		version: "1.0.0",
 	  },
   
