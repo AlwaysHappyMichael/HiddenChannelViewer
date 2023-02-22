@@ -1,7 +1,7 @@
 /**
  * @name HiddenChannelViewer
  * @displayName Hidden Channel Viewer
- * @version 1.0.0
+ * @version 2023.2.21
  * @author Michael
  * @authorId 988831285491421235
  * @source https://github.com/AlwaysHappyMichael/HiddenChannelViewer
@@ -18,6 +18,7 @@ module.exports = (() => {
 			github: "https://github.com/AlwaysHappyMichael/HiddenChannelViewer",
 			github_raw: "https://raw.githubusercontent.com/AlwaysHappyMichael/HiddenChannelViewer/main/HiddenChannelViewer.plugin.js"
 		},
+		changelog: [{ title: "v2023.2.21", items: ["Updated titles and descriptions", "Redesigned most parts of the code"] }],
 		main: "HiddenChannelViewer.plugin.js",
 	};
 	return !window.hasOwnProperty("ZeresPluginLibrary") 
